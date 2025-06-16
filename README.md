@@ -1,2 +1,0 @@
-# MirthSync
-Mirth sync POC
